@@ -1,0 +1,16 @@
+{
+  "dataset": "Indian Government MyScheme Dataset",
+  "upstream_repository": "https://github.com/Aryan-Pardeshi/gov-myscheme-dataset",
+  "upstream_commit": "4ddfa18d7aa3e630cc4ae3374731e5819d7875e7",
+  "upstream_file": "gov_myscheme_data.csv",
+  "upstream_file_sha": "3980e3a1648a5b239aad08f22fe3bcf951544859",
+  "upstream_huggingface_source": "https://huggingface.co/datasets/shrijayan/gov_myscheme",
+  "primary_source": "https://www.myscheme.gov.in/",
+  "license": "Apache-2.0 (as stated by the dataset repository)",
+  "filtered_level": "Central Government",
+  "upstream_records": 2066,
+  "central_records": 527,
+  "included_records": 526,
+  "retrieved_on": "2026-10-13",
+  "limitations": "Aggregated dataset snapshot; scheme details may change. Verify current rules on linked MyScheme and official ministry pages. Eligibility output is preliminary guidance, not an official determination."
+}
